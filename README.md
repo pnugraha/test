@@ -1,5 +1,5 @@
 TEST
-____
+----
 
 REQUIREMENTS
 ------------
@@ -33,7 +33,7 @@ return [
 Table 
 employee (`id_employee`, `first_name`, `last_name`, `email`, `phone`, `salary`)
 for detail check in model employee
-login (admin/admin) -> username does not come from database
+login (admin/admin) = username does not come from database
 
 **NOTES:**
 - Yii won't create the database for you, this has to be done manually before you can access it.
