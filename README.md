@@ -1,5 +1,6 @@
 TEST
 ----
+check in http://test.ompiyo.com/
 
 REQUIREMENTS
 ------------
